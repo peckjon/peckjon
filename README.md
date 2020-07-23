@@ -1,4 +1,4 @@
-### [Technical Advocate](https://www.linkedin.com/in/peckjon/) at GitHub, dabbler in ML 👋
+### [Technical Advocate](https://www.linkedin.com/in/peckjon/) at GitHub, [dabbler in ML](https://algorithmia.com/blog/author/jpeck), [conference speaker](https://www.youtube.com/playlist?list=PLtKhCBMhTy5WXu7R-LtnaEwU7bIbeLM5-)
 
 <!--
 **peckjon/peckjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
