@@ -2,4 +2,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peckjon)](https://git.io/streak-stats)
 
-[![Peckjon's github stats](https://github-readme-stats.vercel.app/api?username=peckjon&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Peckjon's github stats](https://github-readme-stats.vercel.app/api?username=peckjon&count_private=true&hide=contribs&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
