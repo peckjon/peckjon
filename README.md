@@ -6,6 +6,7 @@
 📝 [Tableau: Enriching Data with Machine Learning](https://www.tableau.com/blog/enrich-data-tableau-machine-learning-using-algorithmia)\
 📚 [Algorithmia: Wayback Archive](https://web.archive.org/web/20210411095903/https://algorithmia.com/blog/author/jpeck)\
 🎓 [Manning LiveProject: Training & Deploying ML Models as Microservices](https://www.manning.com/liveproject/upd-training-and-deploying-an-ml-model-as-a-microservice?a_aid=peckjon&a_bid=800e1f53)
+🤝 [Book a consultation](https://consult.jonpeck.com)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peckjon)](https://git.io/streak-stats) -->
 
