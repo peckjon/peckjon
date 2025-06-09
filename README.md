@@ -1,5 +1,5 @@
 ## Technical Advocate, PM, ML Enthusiast, & Educator
-Senior Developer Advocate (occasional manager) DevRel @ GitHub
+**Senior Developer Advocate (occasional manager) DevRel @ GitHub**
 
 📜 [LinkedIn](https://www.linkedin.com/in/peckjon/)\
 📄 [Resume](https://raw.githubusercontent.com/peckjon/peckjon/refs/heads/master/Resume%20JonPeck%202025.pdf)\
