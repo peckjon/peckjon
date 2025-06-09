@@ -1,6 +1,7 @@
 ## Jon Peck: Technical Advocate, PM, ML Enthusiast, & Educator
 
 📜 [LinkedIn](https://www.linkedin.com/in/peckjon/)\
+🎓 [Resume](https://raw.githubusercontent.com/peckjon/peckjon/refs/heads/master/Resume%20JonPeck%202025.pdf)\
 🤝 [Book a consultation](https://consult.jonpeck.com)
 
 🎥 [Tech Talks & Social Videos](https://www.youtube.com/playlist?list=PLtKhCBMhTy5WXu7R-LtnaEwU7bIbeLM5-)\
