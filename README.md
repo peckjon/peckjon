@@ -1,14 +1,14 @@
 ## Jon Peck: Technical Advocate, PM, ML Enthusiast, & Educator
 
 📜 [LinkedIn](https://www.linkedin.com/in/peckjon/)\
-🎓 [Resume](https://raw.githubusercontent.com/peckjon/peckjon/refs/heads/master/Resume%20JonPeck%202025.pdf)\
+📄 [Resume](https://raw.githubusercontent.com/peckjon/peckjon/refs/heads/master/Resume%20JonPeck%202025.pdf)\
 🤝 [Book a consultation](https://consult.jonpeck.com)
 
 🎥 [Tech Talks & Social Videos](https://www.youtube.com/playlist?list=PLtKhCBMhTy5WXu7R-LtnaEwU7bIbeLM5-)\
 📝 [GitHub: A Guide to Collaboration-Ready Repositories](https://gh.io/collab-ready-repo)\
 📝 [Tableau: Enriching Data with Machine Learning](https://www.tableau.com/blog/enrich-data-tableau-machine-learning-using-algorithmia)\
-📚 [Algorithmia: Wayback Archive](https://web.archive.org/web/20210411095903/https://algorithmia.com/blog/author/jpeck)\
-🎓 [Manning LiveProject: Training & Deploying ML Models as Microservices](https://www.manning.com/liveproject/upd-training-and-deploying-an-ml-model-as-a-microservice?a_aid=peckjon&a_bid=800e1f53)
+🎓 [Manning LiveProject: Training & Deploying ML Models as Microservices](https://www.manning.com/liveproject/upd-training-and-deploying-an-ml-model-as-a-microservice?a_aid=peckjon&a_bid=800e1f53)\
+📚 [Algorithmia: Wayback Archive](https://web.archive.org/web/20210411095903/https://algorithmia.com/blog/author/jpeck)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peckjon)](https://git.io/streak-stats) -->
 
