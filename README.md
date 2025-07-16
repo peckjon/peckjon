@@ -12,7 +12,7 @@
 📝 [GitHub: Create Issues and PRs in Record Time](https://github.blog/developer-skills/github/how-to-create-issues-and-pull-requests-in-record-time-on-github/)\
 📝 [Tableau: Enriching Data with Machine Learning](https://www.tableau.com/blog/enrich-data-tableau-machine-learning-using-algorithmia)\
 🎓 [Manning: Train & Deploy AI Microservices](https://www.manning.com/liveproject/upd-training-and-deploying-an-ml-model-as-a-microservice?a_aid=peckjon&a_bid=800e1f53)\
-🗄️ [Algorithmia: Wayback Archive](https://web.archive.org/web/20210411095903/https://algorithmia.com/blog/author/jpeck)
+🗄️ Algorithmia: [Archived Developer Center](https://algorithmiaio.github.io/) & [Wayback Archive](https://web.archive.org/web/20210411095903/https://algorithmia.com/blog/author/jpeck)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peckjon)](https://git.io/streak-stats) -->
 
