@@ -1,3 +1,5 @@
+![Jon Peck presents MCP at the AI Worlds Fair](https://github.com/user-attachments/assets/93d42e39-4623-43f9-955a-74d7b9cf8506)
+
 ## Technical Advocate, PM, AI Enthusiast, & Educator
 **Senior Developer Advocate (occasional manager) DevRel @ GitHub**
 
