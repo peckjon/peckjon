@@ -16,6 +16,13 @@
 🎓 Manning: [Train & Deploy AI Microservices](https://www.manning.com/liveproject/upd-training-and-deploying-an-ml-model-as-a-microservice?a_aid=peckjon&a_bid=800e1f53)\
 🗄️ Algorithmia: [Archived Developer Center](https://algorithmiaio.github.io/) & [Wayback Archive](https://web.archive.org/web/20210411095903/https://algorithmia.com/blog/author/jpeck)
 
+👨‍💻Current Projects:
+- [Unregistered Domain Finder - brainstorm & identify available web domains](https://creativecradle.com/)
+- [Reverse Swear Jar - generate novel expletives](https://cursepurse.com)
+- [Repo Wrench - AI antispam/antislop for GitHub repositories](https://RepoWrench.com)
+- [Copilot Chat to MD - convert VSCode Chat history to Markdown](https://github.com/peckjon/copilot-chat-to-markdown/)
+
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peckjon)](https://git.io/streak-stats) -->
 
 [![Peckjon's github stats](https://github-readme-stats-eta-mocha-64.vercel.app/api?username=peckjon&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
