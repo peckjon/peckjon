@@ -17,10 +17,10 @@
 🗄️ Algorithmia: [Archived Developer Center](https://algorithmiaio.github.io/) & [Wayback Archive](https://web.archive.org/web/20210411095903/https://algorithmia.com/blog/author/jpeck)
 
 👨‍💻Current Projects:
-- [Unregistered Domain Finder - brainstorm & identify available web domains](https://creativecradle.com/)
-- [Reverse Swear Jar - generate novel expletives](https://cursepurse.com)
-- [Repo Wrench - AI antispam/antislop for GitHub repositories](https://RepoWrench.com)
-- [Copilot Chat to MD - convert VSCode Chat history to Markdown](https://github.com/peckjon/copilot-chat-to-markdown/)
+[Unregistered Domain Finder - brainstorm & identify available web domains](https://creativecradle.com/)
+[Reverse Swear Jar - generate novel expletives](https://cursepurse.com)
+[Repo Wrench - AI antispam/antislop for GitHub repositories](https://RepoWrench.com)
+[Copilot Chat to MD - convert VSCode Chat history to Markdown](https://github.com/peckjon/copilot-chat-to-markdown/)
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peckjon)](https://git.io/streak-stats) -->
