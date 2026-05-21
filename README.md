@@ -10,6 +10,7 @@
 🎥 [Tech Talks & Social Videos](https://www.youtube.com/playlist?list=PLtKhCBMhTy5WXu7R-LtnaEwU7bIbeLM5-)\
 📚 [Sessionize: Session Abstracts](https://sessionize.com/peckjon)\
 🙊 [For my Fellow Code Monkeys](https://www.linkedin.com/posts/peckjon_for-all-my-fellow-code-monkeys-activity-7324147175121113088-NcES)\
+📝 Evinced: [Minding the gap between design and engineering](https://evinced.com/blog/minding-the-gap-between-design-and-engineering)\
 📝 GitHub: [Guide to Collaboration-Ready Repos](https://gh.io/collab-ready-repo)\
 📝 GitHub: [Create Issues and PRs in Record Time](https://github.blog/developer-skills/github/how-to-create-issues-and-pull-requests-in-record-time-on-github/)\
 📝 Tableau: [Enriching Data with Machine Learning](https://www.tableau.com/blog/enrich-data-tableau-machine-learning-using-algorithmia)\
